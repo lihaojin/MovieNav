@@ -1,0 +1,6 @@
+framework module Pods_MovieNavTests {
+  umbrella header "Pods-MovieNavTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
